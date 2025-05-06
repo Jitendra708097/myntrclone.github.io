@@ -1,0 +1,20 @@
+
+
+#cars{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    padding: 5px;
+    height: 40px;
+    font-weight: lighter;
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+    display: flex;
+    flex-wrap: wrap;
+    color:rgba(0, 0, 0, 0.5);
+}
+
+option{
+    cursor: pointer;
+    border: none;
+}

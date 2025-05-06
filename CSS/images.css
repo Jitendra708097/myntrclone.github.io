@@ -1,0 +1,28 @@
+
+.image-box{
+    display: flex;
+    justify-content: center;
+    padding: 8px;
+}
+
+.image1{
+    width: 45vw;
+    height: 320px;
+    flex-wrap: wrap;
+}
+
+.FLAT100,.FLAT200{
+    width: 40vw;
+    flex-wrap: wrap;
+}
+
+.oye-hoye{
+    width: 90vw;
+    flex-wrap: wrap;
+
+}
+
+.FLAT300{
+    justify-content: center;
+    width: 80vw;
+}

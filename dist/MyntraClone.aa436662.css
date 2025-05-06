@@ -1,0 +1,157 @@
+.card {
+  text-align: center;
+  width: "150px";
+  background-color: #daa520;
+  border: 8px solid #daa520;
+  font-family: Times New Roman, Times, serif;
+}
+
+.item {
+  text-align: center;
+  color: #f0e5d0;
+}
+
+.img {
+  width: 150px;
+  height: 200px;
+}
+
+.shop {
+  color: #fff;
+  background-color: #c8c8d466;
+  border-bottom: 3px solid #00f;
+  border-left: 3px solid #00f;
+  border-radius: 5px;
+  margin-top: 3px;
+}
+
+#cars {
+  cursor: pointer;
+  color: #00000080;
+  border: none;
+  border-radius: 5px;
+  flex-wrap: wrap;
+  height: 40px;
+  padding: 5px;
+  font-family: Franklin Gothic Medium, Arial Narrow, Arial, sans-serif;
+  font-size: large;
+  font-weight: lighter;
+  display: flex;
+}
+
+option {
+  cursor: pointer;
+  border: none;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  box-sizing: border-box;
+  background-color: #fff;
+  height: 100vh;
+}
+
+.header {
+  background-color: #fff;
+  border-radius: 5px;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  width: 100vw;
+  margin-bottom: 20px;
+  padding: 25px;
+  display: flex;
+  position: fixed;
+  box-shadow: 15px 15px 10px #9393931a;
+}
+
+button {
+  cursor: pointer;
+  color: #010101b3;
+  background-color: #fff;
+  border: none;
+  padding: 5px;
+  font-family: Franklin Gothic Medium, Arial Narrow, Arial, sans-serif;
+  font-size: medium;
+  font-weight: lighter;
+  text-decoration: none;
+}
+
+input {
+  background-color: #ebebebcc;
+  border: none;
+  border-radius: 5px;
+  width: 25vw;
+  padding: 8px;
+  font-family: Franklin Gothic Medium, Arial Narrow, Arial, sans-serif;
+  font-size: medium;
+}
+
+.main {
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 15px;
+  padding-top: 150px;
+  display: flex;
+}
+
+.icon {
+  color: #e2e3e3;
+  text-align: center;
+  cursor: pointer;
+  width: 20px;
+  height: 20px;
+}
+
+.icon-name {
+  color: #686767;
+  text-align: center;
+  cursor: pointer;
+  font-family: Franklin Gothic Medium, Arial Narrow, Arial, sans-serif;
+  font-size: small;
+  font-weight: 400;
+}
+
+.download-now {
+  width: 90vw;
+  height: 200px;
+  padding: 10px;
+}
+
+.footer-image {
+  background-color: #fff;
+  flex-wrap: wrap;
+  justify-content: center;
+  display: flex;
+}
+
+.image-box {
+  justify-content: center;
+  padding: 8px;
+  display: flex;
+}
+
+.image1 {
+  flex-wrap: wrap;
+  width: 45vw;
+  height: 320px;
+}
+
+.FLAT100, .FLAT200 {
+  flex-wrap: wrap;
+  width: 40vw;
+}
+
+.oye-hoye {
+  flex-wrap: wrap;
+  width: 90vw;
+}
+
+.FLAT300 {
+  justify-content: center;
+  width: 80vw;
+}
+/*# sourceMappingURL=MyntraClone.aa436662.css.map */

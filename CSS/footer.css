@@ -1,0 +1,14 @@
+
+
+.download-now{
+    width: 90vw;
+    height: 200px;
+    padding: 10px;
+}
+
+.footer-image{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: white;
+}
